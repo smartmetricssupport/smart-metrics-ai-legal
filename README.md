@@ -233,7 +233,7 @@ See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for full details.
 
 - **Issues & feature requests**: open an issue in this repository
 - **Marketplace support**: use the support link on the Atlassian Marketplace listing
-- **Email**: [your-support-email@domain.com]
+- **Email**: smart.metrics.support@gmail.com
 
 ---
 
