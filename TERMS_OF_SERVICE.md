@@ -123,8 +123,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 For questions about these Terms, please contact:
 
-**Email:** [your-support-email@domain.com]
-**GitHub:** [https://github.com/your-github-user/your-repo/issues](https://github.com/your-github-user/your-repo/issues)
+**Email:** smart.metrics.support@gmail.com
 
 ---
 
