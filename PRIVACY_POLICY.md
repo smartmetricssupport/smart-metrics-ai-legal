@@ -131,8 +131,7 @@ We may update this Privacy Policy from time to time. The "Last updated" date at 
 
 For privacy-related questions or concerns, please contact:
 
-**Email:** [your-support-email@domain.com]
-**GitHub:** [https://github.com/your-github-user/your-repo/issues](https://github.com/your-github-user/your-repo/issues)
+**Email:** smart.metrics.support@gmail.com 
 
 ---
 
